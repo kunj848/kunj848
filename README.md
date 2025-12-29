@@ -4,9 +4,6 @@
 <h2 align="center" style="margin-top:0;">
 Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋
 </h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Full+Stack+Learner+💻;Building+Projects+to+Learn+🚀;Frontend+%2B+Backend+Developer;Open+Source+Enthusiast" />
 </p>
 
 <p align="center" style="opacity:0.9;">
@@ -157,16 +154,6 @@ border:1px solid #2A2E45;
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight&rank_icon=github" width="46%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" width="46%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" width="40%" />
-</p>
 
 ---
 
