@@ -1,31 +1,34 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO ================= -->
 <h1 align="center">🙏 जय श्री कृष्ण</h1>
-<h2 align="center">Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋</h2>
+
+<h2 align="center">
+Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full+Stack+Learner+%F0%9F%92%BB;Building+Projects+to+Learn+%F0%9F%9A%80;Frontend+%2B+Backend+Developer;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full+Stack+Learner+💻;Building+Projects+to+Learn+🚀;Frontend+%2B+Backend+Developer;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-  <b>Eager Full Stack & Python Developer • Learning by Building Real Projects</b>
+<b>Eager Full Stack & Python Developer • Learning by Building Real Projects</b>
 </p>
 
 <hr/>
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ================= ABOUT ================= -->
 <h2>🧑‍💻 About Me</h2>
 
-<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
-  
-Hello! I'm <b>Kunj Bosamiya</b> (<code>@kunj848</code>)  
-A passionate student pursuing <b>MCA</b>, learning software development by building real-world projects 🚀  
+<div style="background:#1A1B26;padding:24px;border-radius:16px;border:1px solid #30344C;">
+
+<b>Hello! I'm Kunj Bosamiya</b> (<code>@kunj848</code>)  
+A passionate <b>MCA student</b> learning software development by building real-world projects 🚀  
 
 <ul>
-  <li>🎓 MCA Student</li>
-  <li>💻 HTML, CSS, JavaScript, PHP, MySQL, Python</li>
-  <li>🌱 Learning Laravel, React, TypeScript, Git & Testing</li>
-  <li>🔭 Working on personal portfolio & web apps</li>
-  <li>✍️ Writing notes & mini-guides while learning</li>
+<li>🎓 MCA Student</li>
+<li>💻 HTML, CSS, JavaScript, PHP, MySQL, Python</li>
+<li>🌱 Learning Laravel, React, TypeScript, Git & Testing</li>
+<li>🔭 Building portfolio & production-ready projects</li>
+<li>✍️ Writing notes & mini guides while learning</li>
 </ul>
 
 </div>
@@ -35,15 +38,13 @@ A passionate student pursuing <b>MCA</b>, learning software development by build
 <!-- ================= WHAT I DO ================= -->
 <h2>🎯 What I Do</h2>
 
-<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
-
-I focus on **learning by building** small but meaningful projects.
+<div style="background:#1A1B26;padding:24px;border-radius:16px;border:1px solid #30344C;">
 
 <ul>
-  <li>⚡ Build frontend with React & modern JS</li>
-  <li>🔗 Create REST APIs & backend logic</li>
-  <li>🛠 Practice Git, GitHub & deployments</li>
-  <li>📦 Learn full project workflow (code → deploy)</li>
+<li>⚡ Build modern frontend apps using React</li>
+<li>🔗 Develop REST APIs & backend logic</li>
+<li>🛠 Practice Git, GitHub & deployments</li>
+<li>📦 Learn full project lifecycle (code → deploy)</li>
 </ul>
 
 </div>
@@ -55,12 +56,12 @@ I focus on **learning by building** small but meaningful projects.
 
 <h4>Core Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,ts,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,ts,java" />
 </p>
 
-<h4>Tools, DB & Platforms</h4>
+<h4>Tools, Databases & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb,sqlite,flask,bootstrap,vscode,androidstudio,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb,sqlite,flask,bootstrap,vscode,androidstudio,vercel" />
 </p>
 
 ---
@@ -70,25 +71,23 @@ I focus on **learning by building** small but meaningful projects.
 
 <table width="100%">
 <tr>
-<td width="50%" style="padding:10px;">
 
+<td width="50%" valign="top" style="padding:15px;">
+<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
 <h3>🍔 Crave Crunches</h3>
-<p>
-Modern & professional food business platform designed to boost online presence.
-</p>
+<p>Modern & professional food business platform to boost online presence.</p>
 <a href="https://github.com/kunj848/Crave-Crunches">🔗 View Repository</a>
-
+</div>
 </td>
 
-<td width="50%" style="padding:10px;">
-
+<td width="50%" valign="top" style="padding:15px;">
+<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
 <h3>🛕 Path Of Puny</h3>
-<p>
-Professional temple management system with clean UI & backend logic.
-</p>
+<p>Professional temple management system with clean UI & backend.</p>
 <a href="https://github.com/kunj848/Path-Of-Puny">🔗 View Repository</a>
-
+</div>
 </td>
+
 </tr>
 </table>
 
@@ -97,14 +96,14 @@ Professional temple management system with clean UI & backend logic.
 <!-- ================= LEARNING ================= -->
 <h2>📚 Currently Learning</h2>
 
-<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
+<div style="background:#1A1B26;padding:24px;border-radius:16px;border:1px solid #30344C;">
 
 <ul>
-  <li>⚛ React & Component Architecture</li>
-  <li>🧠 Node.js & REST APIs</li>
-  <li>🧪 Unit Testing</li>
-  <li>📦 TypeScript</li>
-  <li>🐍 Python Automation</li>
+<li>⚛ React & Component Architecture</li>
+<li>🧠 Node.js & REST APIs</li>
+<li>🧪 Unit Testing</li>
+<li>📦 TypeScript</li>
+<li>🐍 Python Automation</li>
 </ul>
 
 </div>
@@ -130,15 +129,12 @@ Professional temple management system with clean UI & backend logic.
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -146,7 +142,7 @@ Professional temple management system with clean UI & backend logic.
 <!-- ================= DEV JOKE ================= -->
 <h2 align="center">😄 Dev Joke</h2>
 
-<div align="center" style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #7AA2F7;width:80%;">
+<div align="center" style="background:#1A1B26;padding:24px;border-radius:16px;border:1px solid #7AA2F7;width:80%;">
 <b>❓ What is <code>localhost</code>?</b><br><br>
 💬 A place where everything works perfectly…  
 until production 😄
