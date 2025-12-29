@@ -13,7 +13,9 @@ Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋
 <b>Eager Full Stack & Python Developer • Learning by Building Real Projects</b>
 </p>
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,transparent,#30344C,transparent);" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" width="85%" />
+</p>
 
 <!-- ================= ABOUT ================= -->
 <h2>🧑‍💻 About Me</h2>
@@ -24,7 +26,6 @@ padding:28px;
 border-radius:20px;
 border:1px solid #2A2E45;
 line-height:1.75;
-box-shadow:0 0 0 1px rgba(122,162,247,0.05);
 ">
 
 <b>Hello! I'm Kunj Bosamiya</b> (<code>@kunj848</code>)  
@@ -40,7 +41,9 @@ A passionate <b>MCA student</b> learning software development by building real-w
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="70%" />
+</p>
 
 <!-- ================= WHAT I DO ================= -->
 <h2>🎯 What I Do</h2>
@@ -67,12 +70,12 @@ line-height:1.75;
 <!-- ================= TECH STACK ================= -->
 <h2>🧰 Tech Stack</h2>
 
-<h4 style="margin-bottom:8px;">Core Technologies</h4>
+<h4>Core Technologies</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,ts,java" />
 </p>
 
-<h4 style="margin-bottom:8px;">Tools, Databases & Platforms</h4>
+<h4>Tools, Databases & Platforms</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb,sqlite,flask,bootstrap,vscode,androidstudio,vercel" />
 </p>
@@ -91,7 +94,6 @@ background:linear-gradient(145deg,#1A1B26,#16161E);
 padding:24px;
 border-radius:18px;
 border:1px solid #2A2E45;
-height:100%;
 ">
 <h3>🍔 Crave Crunches</h3>
 <p>Modern & professional food business platform to boost online presence.</p>
@@ -105,7 +107,6 @@ background:linear-gradient(145deg,#1A1B26,#16161E);
 padding:24px;
 border-radius:18px;
 border:1px solid #2A2E45;
-height:100%;
 ">
 <h3>🛕 Path Of Puny</h3>
 <p>Professional temple management system with clean UI & backend.</p>
@@ -159,12 +160,12 @@ border:1px solid #2A2E45;
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
-<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight&rank_icon=github" width="46%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" width="46%" />
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
@@ -189,7 +190,7 @@ until production 😄
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer&text=Thanks+for+visiting!+Happy+Coding+🚀&fontSize=26" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks+for+visiting!+Happy+Coding+🚀&fontSize=26&animation=fadeIn" />
 </p>
 
 <p align="center">
