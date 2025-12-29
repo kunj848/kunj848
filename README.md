@@ -1,7 +1,7 @@
 <!-- ================= HERO ================= -->
-<h1 align="center">🙏 जय श्री कृष्ण</h1>
+<h1 align="center" style="margin-bottom:6px;">🙏 जय श्री कृष्ण</h1>
 
-<h2 align="center">
+<h2 align="center" style="margin-top:0;">
 Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋
 </h2>
 
@@ -9,16 +9,23 @@ Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=720&lines=Full+Stack+Learner+💻;Building+Projects+to+Learn+🚀;Frontend+%2B+Backend+Developer;Open+Source+Enthusiast" />
 </p>
 
-<p align="center">
+<p align="center" style="opacity:0.9;">
 <b>Eager Full Stack & Python Developer • Learning by Building Real Projects</b>
 </p>
 
-<hr style="border:1px solid #30344C"/>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,transparent,#30344C,transparent);" />
 
 <!-- ================= ABOUT ================= -->
 <h2>🧑‍💻 About Me</h2>
 
-<div style="background:#1A1B26;padding:26px;border-radius:18px;border:1px solid #30344C;line-height:1.7;">
+<div style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:28px;
+border-radius:20px;
+border:1px solid #2A2E45;
+line-height:1.75;
+box-shadow:0 0 0 1px rgba(122,162,247,0.05);
+">
 
 <b>Hello! I'm Kunj Bosamiya</b> (<code>@kunj848</code>)  
 A passionate <b>MCA student</b> learning software development by building real-world projects 🚀  
@@ -38,7 +45,13 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <!-- ================= WHAT I DO ================= -->
 <h2>🎯 What I Do</h2>
 
-<div style="background:#1A1B26;padding:26px;border-radius:18px;border:1px solid #30344C;line-height:1.7;">
+<div style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:28px;
+border-radius:20px;
+border:1px solid #2A2E45;
+line-height:1.75;
+">
 
 <ul>
 <li>⚡ Build modern frontend apps using React</li>
@@ -54,12 +67,12 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <!-- ================= TECH STACK ================= -->
 <h2>🧰 Tech Stack</h2>
 
-<h4>Core Technologies</h4>
+<h4 style="margin-bottom:8px;">Core Technologies</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,ts,java" />
 </p>
 
-<h4>Tools, Databases & Platforms</h4>
+<h4 style="margin-bottom:8px;">Tools, Databases & Platforms</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb,sqlite,flask,bootstrap,vscode,androidstudio,vercel" />
 </p>
@@ -69,11 +82,17 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <!-- ================= PROJECTS ================= -->
 <h2>📂 Projects</h2>
 
-<table width="100%" cellspacing="12">
+<table width="100%" cellspacing="16">
 <tr>
 
 <td width="50%" valign="top">
-<div style="background:#1A1B26;padding:22px;border-radius:16px;border:1px solid #30344C;">
+<div style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:24px;
+border-radius:18px;
+border:1px solid #2A2E45;
+height:100%;
+">
 <h3>🍔 Crave Crunches</h3>
 <p>Modern & professional food business platform to boost online presence.</p>
 <a href="https://github.com/kunj848/Crave-Crunches"><b>🔗 View Repository</b></a>
@@ -81,7 +100,13 @@ A passionate <b>MCA student</b> learning software development by building real-w
 </td>
 
 <td width="50%" valign="top">
-<div style="background:#1A1B26;padding:22px;border-radius:16px;border:1px solid #30344C;">
+<div style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:24px;
+border-radius:18px;
+border:1px solid #2A2E45;
+height:100%;
+">
 <h3>🛕 Path Of Puny</h3>
 <p>Professional temple management system with clean UI & backend.</p>
 <a href="https://github.com/kunj848/Path-Of-Puny"><b>🔗 View Repository</b></a>
@@ -96,7 +121,12 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <!-- ================= LEARNING ================= -->
 <h2>📚 Currently Learning</h2>
 
-<div style="background:#1A1B26;padding:26px;border-radius:18px;border:1px solid #30344C;">
+<div style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:28px;
+border-radius:20px;
+border:1px solid #2A2E45;
+">
 
 <ul>
 <li>⚛ React & Component Architecture</li>
@@ -129,12 +159,12 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -142,7 +172,14 @@ A passionate <b>MCA student</b> learning software development by building real-w
 <!-- ================= DEV JOKE ================= -->
 <h2 align="center">😄 Dev Joke</h2>
 
-<div align="center" style="background:#1A1B26;padding:26px;border-radius:18px;border:1px solid #7AA2F7;width:78%;line-height:1.6;">
+<div align="center" style="
+background:linear-gradient(145deg,#1A1B26,#16161E);
+padding:28px;
+border-radius:20px;
+border:1px solid rgba(122,162,247,0.6);
+width:78%;
+line-height:1.7;
+">
 <b>❓ What is <code>localhost</code>?</b><br><br>
 💬 A place where everything works perfectly…<br>
 until production 😄
