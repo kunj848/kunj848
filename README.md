@@ -1,179 +1,164 @@
-
-# <p align="center">जय श्री कृष्ण 🙏 , I'm Smith</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=600&lines=Learning+frontend+and+backend+development;Building+small+projects+to+learn;Collaborating+and+contributing+to+open+source" alt="Animated typing" />
-</p>
-
----
+<!-- ================= HERO SECTION ================= -->
+<h1 align="center">🙏 जय श्री कृष्ण</h1>
+<h2 align="center">Hi, I'm <span style="color:#7AA2F7;">Kunj Bosamiya</span> 👋</h2>
 
 <p align="center">
-  <strong>Eager to Learn Full Stack & Python Developement • Learning by building new Projects</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full+Stack+Learner+%F0%9F%92%BB;Building+Projects+to+Learn+%F0%9F%9A%80;Frontend+%2B+Backend+Developer;Open+Source+Enthusiast" />
 </p>
 
----
+<p align="center">
+  <b>Eager Full Stack & Python Developer • Learning by Building Real Projects</b>
+</p>
 
-## 📑 Table of Contents
-- [About Me](#about-me)
-- [What I Do](#what-i-do)
-- [Tech & Tools I Use](#tech--tools-i-use)
-- [Projects](#projects)
-- [How I Work / Currently Learning](#how-i-work--currently-learning)
-- [Connect With Me](#connect-with-me)
-- [GitHub & Badges](#github--badges)
-- [Dev Joke](#dev-joke)
-- [Profile Views](#profile-views)
+<hr/>
 
----
-
-<a id="about-me"></a>
+<!-- ================= ABOUT ME ================= -->
 <h2>🧑‍💻 About Me</h2>
 
-Hello — I'm Smith S. Patel (GitHub: @Smith-012).<br>
-I'm a student learning software development by building small projects and documenting what I learn.<br>
-I enjoy web development, backend work, automation, and beginner-friendly open source.
+<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
+  
+Hello! I'm <b>Kunj Bosamiya</b> (<code>@kunj848</code>)  
+A passionate student pursuing <b>MCA</b>, learning software development by building real-world projects 🚀  
 
-Quick facts :-
-- 🎓 Student (Currently Pursuing MCA)
-- 💻 Languages & tools : HTML5, CSS3, JavaScript, PHP, MySQL, Python
-- 🌱 Currently learning : Laravel, Git, GitHub, React, TypeScript, testing
-- 🔭 Working on : a personal portfolio and beginner projects
-- ✍️ I write short guides and keep notes of what I learn
+<ul>
+  <li>🎓 MCA Student</li>
+  <li>💻 HTML, CSS, JavaScript, PHP, MySQL, Python</li>
+  <li>🌱 Learning Laravel, React, TypeScript, Git & Testing</li>
+  <li>🔭 Working on personal portfolio & web apps</li>
+  <li>✍️ Writing notes & mini-guides while learning</li>
+</ul>
 
----
-
-<a id="what-i-do"></a>
-<h2>🎯 What I Do ?</h2>
-
-I build small projects to practice and apply new skills. I like projects that let me learn front-end, backend, and the deployment workflow.<br>My goals are to :-
-- Learn modern JavaScript and TypeScript tooling (React, Node.js)
-- Build REST APIs and connect them to front-ends
-- Get comfortable with version control, testing, and deployments
+</div>
 
 ---
 
-<a id="tech--tools-i-use"></a>
-<h2>🧰 Tech & Tools I Use</h2>
-Core :-
+<!-- ================= WHAT I DO ================= -->
+<h2>🎯 What I Do</h2>
+
+<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
+
+I focus on **learning by building** small but meaningful projects.
+
+<ul>
+  <li>⚡ Build frontend with React & modern JS</li>
+  <li>🔗 Create REST APIs & backend logic</li>
+  <li>🛠 Practice Git, GitHub & deployments</li>
+  <li>📦 Learn full project workflow (code → deploy)</li>
+</ul>
+
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+<h2>🧰 Tech Stack</h2>
+
+<h4>Core Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,php,laravel,bootstrap,flask,ts,java" alt="core tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,ts,java" />
 </p>
 
-Tools / DBs / Infra :-
+<h4>Tools, DB & Platforms</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,postgres,sqlite,mysql,vercel,git,mongodb,vscode,androidstudio" alt="tools icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb,sqlite,flask,bootstrap,vscode,androidstudio,vercel" />
 </p>
 
 ---
 
-<a id="projects"></a>
+<!-- ================= PROJECTS ================= -->
 <h2>📂 Projects</h2>
 
-- Aashray :-<br>
-  👉 A modern & professional web-based platform for discovering, managing, and renting residential and commercial properties.<br>
-  🔗 [https://github.com/Smith-012/aashray_pro](https://github.com/Smith-012/aashray_pro)
+<table width="100%">
+<tr>
+<td width="50%" style="padding:10px;">
 
-- Small Web Projects :-<br>
-  👉 Eye-catching front-end projects and UI experiments — perfect for learning, remixing, or adding visual polish to your sites.<br>
-  🔗 [https://github.com/Smith-012/small_web_projects](https://github.com/Smith-012/small_web_projects)
+<h3>🍔 Crave Crunches</h3>
+<p>
+Modern & professional food business platform designed to boost online presence.
+</p>
+<a href="https://github.com/kunj848/Crave-Crunches">🔗 View Repository</a>
 
-- Python Projects :-<br>
-  👉 Hands-on Python experiments, featuring Flask web apps and polished GUI applications for learning purpose.<br>
-  🔗 [https://github.com/Smith-012/python_projects](https://github.com/Smith-012?tab=repositories)
+</td>
+
+<td width="50%" style="padding:10px;">
+
+<h3>🛕 Path Of Puny</h3>
+<p>
+Professional temple management system with clean UI & backend logic.
+</p>
+<a href="https://github.com/kunj848/Path-Of-Puny">🔗 View Repository</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<a id="how-i-work--currently-learning"></a>
-<h2>📚 How I Work / Currently Learning</h2>
-- Focused on small, incremental projects to build a portfolio.<br>
-- Practicing: React, Node.js, REST APIs, unit testing, Python, and TypeScript.<br>
-- I commit frequently and try to make small, atomic changes so history is easy to follow.<br>
+<!-- ================= LEARNING ================= -->
+<h2>📚 Currently Learning</h2>
+
+<div style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #30344C;">
+
+<ul>
+  <li>⚛ React & Component Architecture</li>
+  <li>🧠 Node.js & REST APIs</li>
+  <li>🧪 Unit Testing</li>
+  <li>📦 TypeScript</li>
+  <li>🐍 Python Automation</li>
+</ul>
+
+</div>
 
 ---
 
-<a id="connect-with-me"></a>
-
+<!-- ================= CONNECT ================= -->
 <h2>🔗 Connect With Me</h2>
+
 <p align="center">
-<a href="https://in.linkedin.com/in/smith-patel-37a474245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Smith Patel - LinkedIn" height="40" width="50" /></a>
-<a href="mailto:smithsp5177@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="gmail.png" alt="smithsp5177@gmail.com"  height="50" width="50" /></a>
-<a href="https://www.instagram.com/_.aquarius._012/?utm_source=qr" target="_blank" rel="noopener noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aquarius._012 - Instagram" height="40" width="50" />
+<a href="https://www.linkedin.com/in/bosamiya-kunj-080153221/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bosamiyakunj936@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 </p>
 
 ---
 
-<a id="github--badges"></a>
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<h2 align="center">📊 GitHub Stats & Badges</h2>
-
-<!-- Stats + Languages -->
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Smith-012&theme=tokyonight&count_private=true&cache_seconds=1&token=PAT_1&cache=0" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Smith-012&theme=tokyonight&cache=0" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smith-012&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache=0" alt="Smith-012"/>
-</p>
-
-<!-- Streak -->
-<p align="center">
-  <img height="150em" src="https://streak-stats.vercel.app?user=Smith-012&theme=tokyonight&cache=0" />
-</p>
-
-<!-- Profile Summary -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smith-012&theme=tokyonight&cache=0" />
+<img src="https://github-readme-stats.vercel.app/api?username=kunj848&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Smith-012?label=Followers&style=for-the-badge&color=brightgreen&cache=0" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunj848&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunj848&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-<a id="dev-joke"></a>
-<!-- 😄 Dev Joke -->
+<!-- ================= DEV JOKE ================= -->
 <h2 align="center">😄 Dev Joke</h2>
 
-<table align="center" width="900">
-  <tr>
-    <td style="
-      border: 2px solid #7AA2F7;
-      border-radius: 14px;
-      padding: 22px 30px;
-      background-color: #1A1B26;
-      color: #C0CAF5;
-      font-family: 'Fira Code', monospace;
-      font-size: 16px;
-    ">
-      <strong style="color:#7AA2F7;">❓ What is <code>localhost</code>?</strong>
-      <br><br>
-      <span style="color:#9ECE6A;">
-        💬 A place where our dreams run smoothly…<br>
-        until we deploy to production.
-      </span>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="background:#1A1B26;padding:20px;border-radius:14px;border:1px solid #7AA2F7;width:80%;">
+<b>❓ What is <code>localhost</code>?</b><br><br>
+💬 A place where everything works perfectly…  
+until production 😄
+</div>
 
 ---
 
-<!--
-<p  align="center">
-Thank you for visiting — I’m always learning and happy to connect!
-</p>
--->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=50&section=footer&text=Thank%20you%20for%20visiting%20—%20I’m%20always%20learning%20and%20happy%20to%20connect!&fontSize=25&fontColor=darkblack&animation=scaleIn" width="100%"
-/>
-
----
-
-<a id="profile-views"></a>
+<!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smith-012&style=for-the-badge&color=blue&cache=0" alt="profile views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!+Happy+Coding+🚀&fontSize=24" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kunj848&style=for-the-badge&color=blue" />
 </p>
